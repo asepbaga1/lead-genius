@@ -6,127 +6,127 @@ export const translations = {
     nav: {
       home: "Beranda",
       howItWorks: "Cara Kerja",
-      startChat: "Mulai Chat",
+      startChat: "Coba Demo",
       login: "Masuk",
     },
     // Hero Section
     hero: {
-      badge: "AI Lead Filter untuk Bisnis",
-      title: "Saring Lead. Simpan yang Serius. Follow-up dengan Mudah.",
-      subtitle: "Jangan kehilangan calon klien potensial. KOSMARA menyaring chat, menyimpan lead berkualitas dengan izin, dan mengalirkan prospek serius langsung ke WhatsApp Anda.",
-      cta: "Mulai Chat Sekarang",
-      ctaSub: "Gratis • Tanpa registrasi",
+      badge: "Asisten AI untuk Kualifikasi Lead WhatsApp",
+      title: "Otomatis Saring Lead Berkualitas dari Chat WhatsApp Anda",
+      subtitle: "KOSMARA adalah asisten AI yang membantu bisnis Anda menyaring, mengkualifikasi, dan menyimpan lead potensial secara otomatis. Fokus ke closing, biarkan AI yang handle screening.",
+      cta: "Coba Demo Gratis",
+      ctaSub: "Tanpa registrasi • Langsung coba",
     },
     // Problem Section
     problem: {
-      title: "Masalahnya",
-      subtitle: "Setiap hari, bisnis Anda kehilangan lead berharga",
+      title: "Masalah yang Sering Dialami UMKM",
+      subtitle: "Kehilangan lead berkualitas karena proses manual yang tidak efisien",
       items: [
         {
           title: "Chat Menumpuk",
-          description: "Puluhan chat masuk setiap hari, sulit membedakan mana yang serius dan mana yang hanya tanya-tanya.",
+          description: "Ratusan chat masuk setiap hari, sulit membedakan calon pembeli serius dengan yang hanya bertanya-tanya.",
         },
         {
           title: "Lead Hilang",
-          description: "Tanpa sistem penyimpanan, lead potensial menghilang selamanya setelah chat berakhir.",
+          description: "Tanpa sistem penyimpanan terstruktur, informasi lead potensial menghilang begitu saja setelah chat berakhir.",
         },
         {
-          title: "Follow-up Berantakan",
-          description: "Tidak ada catatan terstruktur, tim Anda kesulitan menindaklanjuti dengan tepat.",
+          title: "Follow-up Tidak Terorganisir",
+          description: "Tidak ada catatan lengkap, tim sales kesulitan melakukan follow-up yang efektif dan tepat waktu.",
         },
       ],
     },
     // Insight Section
     insight: {
-      title: "Faktanya",
+      title: "Fakta Bisnis",
       stat: "67%",
-      description: "lead potensial hilang karena tidak ada sistem filter dan penyimpanan yang terstruktur.",
-      source: "Berdasarkan riset konversi digital UMKM",
+      description: "lead potensial hilang karena tidak ada sistem kualifikasi dan penyimpanan yang terstruktur.",
+      source: "Berdasarkan riset konversi digital UMKM Indonesia 2024",
     },
     // Solution Section
     solution: {
-      title: "Solusinya",
-      subtitle: "KOSMARA: AI Filter Lead yang Bekerja untuk Anda",
+      title: "Solusi KOSMARA",
+      subtitle: "Sistem AI yang bekerja 24/7 untuk bisnis Anda",
       features: [
         {
-          title: "AI Filter Cerdas",
-          description: "Menyaring setiap chat dengan pertanyaan terstruktur untuk mengidentifikasi lead berkualitas.",
+          title: "Penyaringan Otomatis",
+          description: "AI mengajukan pertanyaan terstruktur untuk mengidentifikasi dan mengkualifikasi lead yang benar-benar berpotensi.",
         },
         {
-          title: "Penyimpanan Aman",
-          description: "Lead yang memberikan izin tersimpan aman dan terorganisir untuk follow-up.",
+          title: "Penyimpanan Terorganisir",
+          description: "Semua informasi lead tersimpan aman dengan persetujuan, siap untuk ditindaklanjuti tim sales Anda.",
         },
         {
-          title: "WhatsApp Integration",
-          description: "Prospek serius langsung terhubung ke WhatsApp Anda dengan ringkasan lengkap.",
+          title: "Integrasi WhatsApp",
+          description: "Lead berkualitas langsung terhubung ke WhatsApp Business Anda dengan summary lengkap kebutuhan mereka.",
         },
         {
-          title: "Dashboard Sederhana",
-          description: "Pantau, kelola, dan ekspor data lead dengan mudah kapan saja.",
+          title: "Dashboard Simpel",
+          description: "Pantau, kelola, update status, dan export data lead dengan mudah dari satu tempat.",
         },
       ],
     },
     // How It Works Section
     howItWorks: {
       title: "Cara Kerja",
-      subtitle: "Sederhana, cepat, dan efektif",
+      subtitle: "Proses otomatis dalam 4 langkah sederhana",
       steps: [
         {
           step: "01",
-          title: "Pengunjung Mulai Chat",
-          description: "Calon klien membuka website dan memulai percakapan dengan AI kami.",
+          title: "Pengunjung Memulai Chat",
+          description: "Calon klien mengklik tombol chat di website dan memulai percakapan dengan AI kami.",
         },
         {
           step: "02",
-          title: "AI Menyaring & Merangkum",
-          description: "AI bertanya terstruktur tentang bisnis, tujuan, masalah, dan urgensi mereka.",
+          title: "AI Mengajukan Pertanyaan",
+          description: "Sistem bertanya secara terstruktur tentang bisnis, kebutuhan, masalah, dan tingkat urgensi mereka.",
         },
         {
           step: "03",
-          title: "Izin & Penyimpanan",
-          description: "Dengan izin eksplisit, ringkasan lead tersimpan aman untuk follow-up.",
+          title: "Lead Disimpan",
+          description: "Dengan persetujuan eksplisit, ringkasan lengkap lead tersimpan aman di database untuk follow-up.",
         },
         {
           step: "04",
-          title: "WhatsApp dengan Context",
-          description: "Prospek klik WhatsApp dengan pesan yang sudah berisi ringkasan lengkap.",
+          title: "Follow-up via WhatsApp",
+          description: "Lead berkualitas mendapat link WhatsApp dengan pesan berisi ringkasan kebutuhan mereka.",
         },
       ],
     },
     // Trust Section
     trust: {
-      title: "Mengapa KOSMARA?",
+      title: "Kenapa Pilih KOSMARA?",
       items: [
-        "Privasi terjaga - data hanya disimpan dengan izin eksplisit",
-        "AI yang profesional dan tidak memaksa",
-        "Dashboard sederhana untuk bisnis owner",
-        "Export CSV untuk analisis lebih lanjut",
+        "Privasi Terjamin - Data hanya disimpan dengan izin eksplisit dari lead",
+        "AI Profesional - Percakapan natural tanpa terkesan bot atau pushy",
+        "Setup Mudah - Tidak perlu coding, langsung bisa digunakan",
+        "Export Data - Download semua lead dalam format CSV untuk analisis",
       ],
     },
     // CTA Section
     cta: {
-      title: "Siap Menyaring Lead Anda?",
-      subtitle: "Mulai chat sekarang dan rasakan bagaimana KOSMARA bekerja untuk bisnis Anda.",
-      button: "Mulai Chat",
+      title: "Siap Tingkatkan Kualitas Lead Anda?",
+      subtitle: "Coba demo sekarang dan rasakan bagaimana KOSMARA bisa membantu bisnis Anda.",
+      button: "Coba Demo Gratis",
     },
     // Footer
     footer: {
       copyright: "© 2025 KOSMARA. Semua hak dilindungi.",
-      tagline: "AI Lead Filter untuk Bisnis yang Serius",
+      tagline: "Asisten AI untuk Kualifikasi Lead WhatsApp",
     },
     // Chat
     chat: {
-      title: "Chat dengan KOSMARA",
+      title: "Demo Chat dengan KOSMARA",
       placeholder: "Ketik pesan Anda...",
       send: "Kirim",
       whatsappCta: "Lanjut ke WhatsApp",
       typing: "KOSMARA sedang mengetik...",
-      welcome: "Halo! Saya KOSMARA, asisten AI yang akan membantu memahami kebutuhan bisnis Anda. Apa tujuan bisnis Anda saat ini?",
+      welcome: "Halo! Saya KOSMARA, asisten AI yang akan membantu memahami kebutuhan bisnis Anda. Boleh saya tahu, apa tujuan bisnis Anda saat ini?",
     },
     // Dashboard
     dashboard: {
       title: "Dashboard Lead",
-      subtitle: "Kelola dan pantau semua lead Anda",
+      subtitle: "Kelola dan pantau semua lead Anda dalam satu tempat",
       filters: "Filter",
       export: "Export CSV",
       noLeads: "Belum ada lead tersimpan",
@@ -162,127 +162,127 @@ export const translations = {
     nav: {
       home: "Home",
       howItWorks: "How It Works",
-      startChat: "Start Chat",
+      startChat: "Try Demo",
       login: "Login",
     },
     // Hero Section
     hero: {
-      badge: "AI Lead Filter for Business",
-      title: "Filter Leads. Keep the Serious Ones. Follow-up Easily.",
-      subtitle: "Don't lose potential clients. KOSMARA filters chats, stores quality leads with consent, and connects serious prospects directly to your WhatsApp.",
-      cta: "Start Chat Now",
-      ctaSub: "Free • No registration",
+      badge: "AI Assistant for WhatsApp Lead Qualification",
+      title: "Automatically Filter Quality Leads from Your WhatsApp Chats",
+      subtitle: "KOSMARA is an AI assistant that helps your business filter, qualify, and store potential leads automatically. Focus on closing deals, let AI handle the screening.",
+      cta: "Try Free Demo",
+      ctaSub: "No registration • Try instantly",
     },
     // Problem Section
     problem: {
-      title: "The Problem",
-      subtitle: "Every day, your business loses valuable leads",
+      title: "Common SME Challenges",
+      subtitle: "Losing quality leads due to inefficient manual processes",
       items: [
         {
           title: "Chat Overload",
-          description: "Dozens of chats come in daily, hard to distinguish serious ones from just window shoppers.",
+          description: "Hundreds of chats daily, difficult to distinguish serious buyers from casual inquiries.",
         },
         {
           title: "Lost Leads",
-          description: "Without a storage system, potential leads disappear forever after the chat ends.",
+          description: "Without a structured storage system, potential lead information disappears after chats end.",
         },
         {
-          title: "Messy Follow-up",
-          description: "No structured notes, your team struggles to follow up properly.",
+          title: "Unorganized Follow-up",
+          description: "No complete records, sales team struggles with effective and timely follow-ups.",
         },
       ],
     },
     // Insight Section
     insight: {
-      title: "The Fact",
+      title: "Business Fact",
       stat: "67%",
-      description: "of potential leads are lost because there's no structured filter and storage system.",
-      source: "Based on SME digital conversion research",
+      description: "of potential leads are lost due to lack of structured qualification and storage systems.",
+      source: "Based on Indonesian SME digital conversion research 2024",
     },
     // Solution Section
     solution: {
-      title: "The Solution",
-      subtitle: "KOSMARA: AI Lead Filter That Works for You",
+      title: "KOSMARA Solution",
+      subtitle: "AI system working 24/7 for your business",
       features: [
         {
-          title: "Smart AI Filter",
-          description: "Filters every chat with structured questions to identify quality leads.",
+          title: "Automatic Filtering",
+          description: "AI asks structured questions to identify and qualify truly potential leads.",
         },
         {
-          title: "Secure Storage",
-          description: "Leads who give consent are stored safely and organized for follow-up.",
+          title: "Organized Storage",
+          description: "All lead information stored securely with consent, ready for your sales team to follow up.",
         },
         {
           title: "WhatsApp Integration",
-          description: "Serious prospects connect directly to your WhatsApp with a complete summary.",
+          description: "Quality leads connect directly to your WhatsApp Business with complete needs summary.",
         },
         {
           title: "Simple Dashboard",
-          description: "Monitor, manage, and export lead data easily anytime.",
+          description: "Monitor, manage, update status, and export lead data easily from one place.",
         },
       ],
     },
     // How It Works Section
     howItWorks: {
       title: "How It Works",
-      subtitle: "Simple, fast, and effective",
+      subtitle: "Automatic process in 4 simple steps",
       steps: [
         {
           step: "01",
           title: "Visitor Starts Chat",
-          description: "Potential clients open the website and start a conversation with our AI.",
+          description: "Potential clients click the chat button on your website and start conversation with our AI.",
         },
         {
           step: "02",
-          title: "AI Filters & Summarizes",
-          description: "AI asks structured questions about their business, goals, problems, and urgency.",
+          title: "AI Asks Questions",
+          description: "System asks structured questions about their business, needs, problems, and urgency level.",
         },
         {
           step: "03",
-          title: "Consent & Storage",
-          description: "With explicit consent, the lead summary is stored securely for follow-up.",
+          title: "Lead Stored",
+          description: "With explicit consent, complete lead summary is securely stored in database for follow-up.",
         },
         {
           step: "04",
-          title: "WhatsApp with Context",
-          description: "Prospects click WhatsApp with a message containing the complete summary.",
+          title: "Follow-up via WhatsApp",
+          description: "Quality leads get WhatsApp link with message containing their needs summary.",
         },
       ],
     },
     // Trust Section
     trust: {
-      title: "Why KOSMARA?",
+      title: "Why Choose KOSMARA?",
       items: [
-        "Privacy protected - data only stored with explicit consent",
-        "Professional AI that doesn't push",
-        "Simple dashboard for business owners",
-        "CSV export for further analysis",
+        "Privacy Guaranteed - Data only stored with explicit consent from leads",
+        "Professional AI - Natural conversation without feeling like a bot or pushy",
+        "Easy Setup - No coding required, ready to use immediately",
+        "Data Export - Download all leads in CSV format for analysis",
       ],
     },
     // CTA Section
     cta: {
-      title: "Ready to Filter Your Leads?",
-      subtitle: "Start chatting now and experience how KOSMARA works for your business.",
-      button: "Start Chat",
+      title: "Ready to Improve Your Lead Quality?",
+      subtitle: "Try the demo now and experience how KOSMARA can help your business.",
+      button: "Try Free Demo",
     },
     // Footer
     footer: {
       copyright: "© 2025 KOSMARA. All rights reserved.",
-      tagline: "AI Lead Filter for Serious Business",
+      tagline: "AI Assistant for WhatsApp Lead Qualification",
     },
     // Chat
     chat: {
-      title: "Chat with KOSMARA",
+      title: "Demo Chat with KOSMARA",
       placeholder: "Type your message...",
       send: "Send",
       whatsappCta: "Continue to WhatsApp",
       typing: "KOSMARA is typing...",
-      welcome: "Hello! I'm KOSMARA, an AI assistant that will help understand your business needs. What is your current business goal?",
+      welcome: "Hello! I'm KOSMARA, an AI assistant that will help understand your business needs. May I know, what is your current business goal?",
     },
     // Dashboard
     dashboard: {
       title: "Lead Dashboard",
-      subtitle: "Manage and monitor all your leads",
+      subtitle: "Manage and monitor all your leads in one place",
       filters: "Filters",
       export: "Export CSV",
       noLeads: "No leads saved yet",
